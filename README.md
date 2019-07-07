@@ -26,7 +26,7 @@ theTuring的文件中心，支持多格式的文件上传下载</br>
 + 支持下载、预览（暂支持word exce 及图片格式
 ![文件界面](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/document.png)
 ### 其他示例
-+ 用户功能
++ 用户功能</br>
 ![用户功能](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/user.png)
-+ 管理员功能
++ 管理员功能</br>
 ![管理员功能](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/admin.png)
