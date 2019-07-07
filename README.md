@@ -15,10 +15,11 @@ theTuring的文件中心，支持多格式的文件上传下载</br>
 + 普通用户注册
 + 管理员注册</br>
 + ps：暂不支持邮箱验证
-![登录界面](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/login.png)
+![注册界面](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/register.png)
 ### 统计界面示例
 + 统计分析文件类型
 + 统计分析上传文件下载量
+![统计界面](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/statistics.png)
 ### 文件操作界面示例
 + 显示文件的各项基本信息
 + 支持下载、预览（暂支持word exce 及图片格式
