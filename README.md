@@ -30,3 +30,16 @@ theTuring的文件中心，支持多格式的文件上传下载</br>
 ![用户功能](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/user.png)
 + 管理员功能</br>
 ![管理员功能](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/admin.png)
+## 技术使用
++ [spring boot](https://spring.io/projects/spring-boot/) 后端框架
++ [maven](http://maven.apache.org/) 解决繁琐的项目依赖问题
++ [jQuery](https://jquery.com/) 前端框架
++ [layui](https://www.layui.com/) 前端框架（文件上传)
++ [apache](http://www.apache.org/) apache文档解析
++ [axios](http://www.axios-js.com/) 基于promise的HTTP库
+## 环境要求
++ jdk1.8
+## 部署
+> 使用阿里云服务器
+> 使用tomcat+nginx来处理请求
+
