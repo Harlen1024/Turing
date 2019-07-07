@@ -6,3 +6,4 @@ theTuring的文件中心，支持多格式的文件上传下载
 <a href="http://47.95.3.253:8080/">项目地址</a>
 ### 登录界面
 ![登录界面](https://github.com/theTuring/Truing/tree/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/login.png)
+<img src="https://github.com/theTuring/Truing/tree/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/login.png" width="1080" height="1080" alt="登录界面"/>
