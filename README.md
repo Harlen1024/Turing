@@ -27,7 +27,7 @@ theTuring的文件中心，支持多格式的文件上传下载</br>
 ![文件界面](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/document.png)
 ### 其他示例
 + 用户功能
-+ 用户可对自己个人信息进行修改</br>
++ 用户可对自己个人信息进行修改,并显示权限（可上传下载，仅可上传，仅可下载，不可上传下载）</br>
 ![用户功能](https://github.com/theTuring/Truing/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/user.png)
 + 管理员功能
 + 管理员可以对文件进行删除及对普通用户进行权限控制</br>
